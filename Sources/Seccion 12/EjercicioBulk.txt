@@ -1,0 +1,11 @@
+Id_Cliente	Nom_Cliente	Fecha_Nacimiento	Sexo	Meses_En_Empresa
+1	Alex	1/01/94	Masculino	20
+2	Diana	30/08/90	Femenino	20.6
+3	Samuel	23/04/15	Masculino	31
+4	Cristian	5/04/00	Masculino	42.9
+5	Alejandra	9/01/69	Femenino	12
+6	Ivan	6/08/49	Masculino	90.5
+7	Jerferson	10/07/65	Masculino	58.4
+8	Michael	1/09/70	Masculino	67.3
+9	Pacheco	28/05/67	Masculino	1
+10	Henrry	1/04/42	Masculino	9

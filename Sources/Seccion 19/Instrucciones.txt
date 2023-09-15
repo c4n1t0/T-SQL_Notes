@@ -1,0 +1,5 @@
+¡Hola amigos!
+
+En este documento te dejo una breve explicación de donde dejar estos documentos para que al usar el query adjunto funcione sin problemas:
+
+- Descarga los archivos que te he dejado como materiales, una vez los tengas descargados crea una carpeta bajo el nombre Curso Sql 1 en el discol local (C:), ahora los archivos que descargaste debes pasarlos a dicha carpeta y listo !, si deseas cambiar el nombre de la carpeta o la dirección deberás cambiarla en el query en cada una de las secciones del bulk, de lo contrario tendrás problemas, en todo caso recuerda que estaré muy atento a tus comentarios y en caso de surgir algún inconveniente allí estaré.

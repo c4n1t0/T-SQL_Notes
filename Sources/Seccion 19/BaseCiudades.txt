@@ -1,0 +1,15 @@
+CodigoCiudad	NombreCiudad	NombreDepartamento
+10	Medellin	Antioquia
+11	Barranquilla	Atlantico
+12	Bogota	DC
+13	Cartagena	Bolivar
+14	Boyaca	Boyaca
+15	Manizalez	Caldas
+16	Florencia	Caqueta
+17	Popayan	Cauca
+18	Valledupar	Cesar
+19	Monteria	Cordoba
+20	Agua de dios	Cundinamarca
+21	Quibdo	Choco
+22	Neiva	Huila
+23	Villavicencio	Meta

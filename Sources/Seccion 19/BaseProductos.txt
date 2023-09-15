@@ -1,0 +1,20 @@
+CodigoProducto	NombreProducto	PrecioProducto
+A0001	Aceite x 06 Unid	12000
+A0002	Aceite x 12 Unid	24000
+A0003	Aceite x 24 Unid	32000
+C0001	Cerveza x 06 Unid	11000
+C0002	Cerveza x 12 Unid	21000
+C0003	Cerveza x 24 Unid	29000
+C0004	Barril Cerveza	40000
+G0001	Gaseosa 1 Litro x 06 Unid	15000
+G0002	Gaseosa 1 Litro x 12 Unid	30000
+R0001	Arroz 06 Kilos	7000
+R0002	Arroz 10 Kilos	9000
+H0001	Helado 1 Litro x 02 Unid	21000
+H0002	Helado 1 Litro x 04 Unid	42000
+H0003	Helado 1 Litro x 06 Unid	60000
+L0001	Bolsa Leche 1 Litro x 06 Unid	9300
+L0002	Bolsa Leche 1 Litro x 12 Unid	18600
+L0003	Bolsa Leche 1 Litro x 24 Unid	37200
+P0001	Bolsa Pan x 24 Unid	5000
+P0002	Bolsa Pan x 50 Unid	7000
